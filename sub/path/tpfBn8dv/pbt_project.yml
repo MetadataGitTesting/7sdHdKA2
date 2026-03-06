@@ -1,0 +1,58 @@
+name: tad.turcotte
+description: Universal
+version: 0.0.1
+author: lrrewzef.5nwjmom5@7huhb3pi.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: tadturcotte
+  parentArtefactID: team1772820391529
+  buildSystem: maven
+  author: null
+  createdAt: '2026-03-06 18:06:33'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: 2.12.15
+  gemLibsVersion: 1.1.26
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2026-03-06 18:06:33'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2026-03-06T18:06:33.130604Z'
+  name: plibMaven
+  version: 9.1.0-SNAPSHOT
+  id: '2085713777'
+  createdAt: '2026-03-06T18:06:33.130604Z'
+  type: plibMaven
+projectDependencies:
+  '387':
+    projectUID: 387
+    projectName: colby.klein
+    repositoryPath: gitUri=http://gitserver:3000/dev_ofMtP0yN_team_606/dev_ofMtP0yN_project_387.git&subPath=
+    version: colby.klein/7.7.783
+    isDefault: false
+    author: null
+    createdAt: '2026-03-06 18:06:33'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
